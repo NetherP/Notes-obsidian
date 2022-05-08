@@ -1,0 +1,1 @@
+see what hardware are detected and which driver is loaded by the kernel at boot.

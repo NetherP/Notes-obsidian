@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "18bf92e833a8d473",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce30b3e2f0fbee3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PowerShell.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69a973a5b88806ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4b9417ffb040102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cdd424547d43dda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1f99bbcfc1e27a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hydra",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ee9c9cc1cad2fcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4b94a75323089c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60b4cb4760f7d4e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PowerShell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ce30b3e2f0fbee3",
+  "lastOpenFiles": [
+    "PowerShell.md",
+    "Windows Enumeration.md",
+    "Cross-Site Scripting.md",
+    "Untitled.md",
+    "OSINT resource.md",
+    "cheat sheet/hydra.md",
+    "resource to study.md",
+    "Kerberos Attack.md",
+    "Wireshark.md",
+    "Command injection.md"
+  ]
+}

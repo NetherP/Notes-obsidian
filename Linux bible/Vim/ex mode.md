@@ -1,0 +1,5 @@
+- :g/Local: Searches for the word Local and prints every occurrence of that line from the file. (If there is more than a screenful, the output is piped to the more command.) 
+- :s/Local/Remote: Substitutes Remote for the first occurrence of the word Local on the current line. 
+- :g/Local/s//Remote: Substitutes the first occurrence of the word Local on every line of the file with the word Remote. 
+- :g/Local/s//Remote/g: Substitutes every occurrence of the word Local with the word Remote in the entire file. 
+- :g/Local/s//Remote/gp: Substitutes every occurrence of the word Local with the word Remote in the entire file and then prints each line so that you can see the changes (piping it through less if output fills more than one page).

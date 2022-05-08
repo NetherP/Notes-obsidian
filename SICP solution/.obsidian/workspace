@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b269acc94ac3680c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fed86e04aa5c681",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chapter 1.2/1.12.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "893ccaaffce759ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9347b7fd60d2733",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3a81eb9efb098c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "addbf281ce7e8c90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3836723f1e3876f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd70b86c93aff06e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a90303bc15d160e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter 1.2/1.12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2fed86e04aa5c681",
+  "lastOpenFiles": [
+    "chapter 1.2/1.12.md",
+    "chapter 1.2/1.11.md",
+    "chapter 1.2/1.10.md",
+    "chapter 1.2/1.9.md",
+    "attachment/Pasted image 20220325092647.png",
+    "chapter 1.1/1.1.md",
+    "chapter 1.1/1.2.md",
+    "chapter 1.1/1.5.md",
+    "chapter 1.1/1.6.md",
+    "attachment/Pasted image 20220313172805.png"
+  ]
+}
