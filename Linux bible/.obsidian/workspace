@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Command/awk.md",
+            "file": "testing git.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command/awk.md",
+                "file": "testing git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "9c87d3594add3e93",
   "lastOpenFiles": [
+    "testing git.md",
     "Command/awk.md",
     "Command/tr.md",
     "Command/sed.md",
@@ -98,7 +98,6 @@
     "less more.md",
     "tar.md",
     "tee.md",
-    "Subject/Service.md",
-    "diff.md"
+    "Subject/Service.md"
   ]
 }
