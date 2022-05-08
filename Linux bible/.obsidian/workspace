@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9c87d3594add3e93",
+        "id": "7ff80e058e7a97ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "string",
+                "query": "testing git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c87d3594add3e93",
+  "active": "7ff80e058e7a97ea",
   "lastOpenFiles": [
     "testing git.md",
     "Command/awk.md",
